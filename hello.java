@@ -4,3 +4,5 @@ public class hello{
     System.out.println("my first java programm");
   }
 }
+/*this is an message*/
+// the also the message
