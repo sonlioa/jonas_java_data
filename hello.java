@@ -6,3 +6,5 @@ public class hello{
 }
 /*this is an message*/
 // the also the message
+String s="56"
+int x=Interger.parslnt(s)
